@@ -1,4 +1,4 @@
-# Capstone-Terratech
-Ini Capstone Project tim Terratech 
+# Beantrack-Incubation IOT
+IOT for solar dryer from Beantrack
 
-![alt text](image/Terratech.png)
+
